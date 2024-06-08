@@ -9,11 +9,6 @@
 
 /* Q1: Who is the senior most employee based on job title? */
 
-SELECT * FROM employee
-ORDER BY levels DESC
-LIMIT 1;
-
-
 /* Q2: Which countries have the most Invoices? */
 
 /* Q3: What are top 3 values of total invoice? */
